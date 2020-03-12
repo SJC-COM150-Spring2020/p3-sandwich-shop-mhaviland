@@ -1,0 +1,11 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.pdb
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbprojResolveAssemblyReference.cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.Form1.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.Resources.resources
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\mhaviland\Projects\Egg sandwich shop\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.pdb
